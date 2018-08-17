@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPatternPractice", "DecoratorPatternPractice\DecoratorPatternPractice.csproj", "{F847A281-5D5F-4841-856A-6DC562C44EA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastDecoration", "BreakfastDecoration\BreakfastDecoration.csproj", "{50EC318C-23A5-4E88-ADD3-B37C41F743BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F847A281-5D5F-4841-856A-6DC562C44EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F847A281-5D5F-4841-856A-6DC562C44EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F847A281-5D5F-4841-856A-6DC562C44EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EC318C-23A5-4E88-ADD3-B37C41F743BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EC318C-23A5-4E88-ADD3-B37C41F743BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EC318C-23A5-4E88-ADD3-B37C41F743BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EC318C-23A5-4E88-ADD3-B37C41F743BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

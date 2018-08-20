@@ -16,7 +16,7 @@ namespace BreakfastDecoration.decorator
             this._breakfast = breakfast;
         }
 
-        public override string description => "Hammer";
+        public override string description => this._breakfast.description + ",Hammer";
 
         public override double cost()
         {
